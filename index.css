@@ -14,6 +14,7 @@ there are definitely some properties you should add!*/
         background-color: Blue;
         padding: 5px;
         font-size: 14px;
+        font-family: helvetica;
         display: block;
     }
 
@@ -32,6 +33,8 @@ there are definitely some properties you should add!*/
         float: left;
         border-bottom: 5px;
         list-style-type: none;
+        font-size: 14px;
+        font-family: helvetica;
     }
     nav li {
         float: left;
@@ -43,7 +46,7 @@ there are definitely some properties you should add!*/
         vertical-align: middle;
     }
     a {
-        color: Teal;
+        color: Green;
     }
     section {
         width: 73%;
@@ -51,7 +54,7 @@ there are definitely some properties you should add!*/
         float: left;
     }
     aside {
-        width: 17%;
+        width: 27%;
         display: inline-block;
         background-color: Yellow;
         padding: 5px;
