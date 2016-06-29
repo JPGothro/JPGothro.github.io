@@ -25,6 +25,7 @@ there are definitely some properties you should add!*/
     }
 
     h2 {
+        background-color: currentColor;
         padding: 5px;
         display: block;
     }
